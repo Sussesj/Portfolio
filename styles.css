@@ -195,6 +195,9 @@ body {
   padding: 2% 0% 0% 0%;
 }
 
+#showHeartphonesProject a {
+  color: #93D1C6;
+}
 .subManiTitle {
   font-size: .9em;
 }
@@ -243,6 +246,12 @@ div.tabContent h2 {
 
 div.tabContent.hide {
   display: none;
+}
+
+.connectLinks a img{
+  margin-left: 100%; 
+  display: inline;
+  margin-top: -25%;
 }
 
 .bottomText {
