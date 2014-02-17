@@ -104,7 +104,7 @@ body {
 #showResumeProject {
   width: 50%;
   margin:0 auto;
-  display: none;
+  display: block;
 
 }
 
