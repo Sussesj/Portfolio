@@ -382,7 +382,31 @@ div#heartPhoneVideo p{
       border-top-right-radius : 0px;     
   }
 
+/*--------------------------------------Light My Way-------------------------------*/
+img#lightMyWayImg {
+  width: 100%;
+  margin-top: -16%;
+}
 
+/*--------------------------------------TV Design-------------------------------*/
+img#tvDesign {
+  width: 100%;
+  margin-top: -16%;
+}
+
+h1.mainTitleID {
+  color: #E4AA4E;
+}
+
+h2.subManiTitleID {
+  color: #E4AA4E;
+}
+
+/*--------------------------------------Frame For Life Design-------------------------------*/
+img#frameForLife {
+  width: 100%;
+  margin-top: -24%;
+}
 /*thesis nav*/
 
 .thesisNav ul {
